@@ -1,5 +1,5 @@
 # Geo Dash Tech Demo Corona SDK Template
-Geometyr Dash Demo - built for Corona SDK Lua
+Geometry Dash Demo - built for Corona SDK Lua
 
 Last tested running using: Corona SDK 2018.3326
 
