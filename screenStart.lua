@@ -2180,6 +2180,8 @@ function gameOverStartRoutine(overType)
 		if (overType == "restart") then
 			vars.crashSFX = audio.play(myGlobalData.Sfx_Hit)
 			
+			restartButton:removeEventListener( "touch", restartTouched )
+			
 			local dieX = player.x
 			local dieY = player.y
 
